@@ -1,5 +1,3 @@
-Sure, here's a GitHub README profile for a software engineer with some professional flair and a subtle joke thrown in:
-
 # Hi there, I'm Bek 👋
 
 I'm a software engineer that creates code that doesn't crash (most of the time). I'm always learning new ones to stay ahead of the game. I'm a team player with a passion for collaboration and communication, and I believe that the best code is the one that works for everyone. When I'm not coding, you can find me plane watching, hiking, or painting.
