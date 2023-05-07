@@ -17,17 +17,6 @@ I'm a software engineer that creates code that doesn't crash (most of the time).
 - **Web Performance**: Lighthouse, PageSpeed Insights, Web Vitals
 
 
-## 💼 Experience
-- **Software Engineer** at XYZ Inc. (2019 - present)
-  - Developed scalable and maintainable web applications using ReactJS and NodeJS
-  - Collaborated with cross-functional teams to design and implement software solutions
-  - Improved application performance by optimizing database queries and API responses
-- **Software Developer Intern** at ABC Corp. (2018 - 2019)
-  - Assisted in developing a web-based inventory management system using Django and MySQL
-  - Implemented automated testing using Pytest and Selenium
-  - Conducted code reviews and contributed to team discussions on software design and architecture
-
-
 ## 📚 Education
 - **Bachelor of Science in Computer Science** from University of Pittsburgh (2022 - 2026)
 
