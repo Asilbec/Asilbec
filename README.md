@@ -18,7 +18,6 @@ I'm a software engineer that creates code that doesn't crash (most of the time).
 ## 📚 Education
 - **Bachelor of Science in Computer Science** from University of Pittsburgh (2022 - 2026)
 
-Certainly! Here's the updated "Achievements" section:
 
 ## 🌟 Achievements
 - Tartan Hacks 2023: Most Disruptive Technology - awarded to the team behind the most impactful and significant technological innovation that disrupts the status quo (Carnegie Mellon University, Feb 2023)
