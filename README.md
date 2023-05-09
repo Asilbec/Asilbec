@@ -4,7 +4,7 @@ I'm a software engineer that creates code that doesn't crash (most of the time).
 
 
 ## 🚀 Skills and Technologies
-- **Languages**: JavaScript, TypeScript, HTML, CSS
+- **Languages**: JavaScript, TypeScript, Python, HTML, CSS
 - **Front-end Libraries & Frameworks**: ReactJS, VueJS, AngularJS, jQuery, Bootstrap, Material-UI, Tailwind CSS, Sass
 - **Back-end Technologies**: NodeJS, ExpressJS
 - **APIs & Data Formats**: RESTful APIs, JSON, XML
