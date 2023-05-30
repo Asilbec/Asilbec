@@ -25,6 +25,6 @@ I'm a software engineer that creates code that doesn't crash (most of the time).
 
 ## 🤔 Things that make me wonder
 How is this even possible???
-[AI learns how to read punch a dude...](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[AI learns how to punch a dude...](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 
