@@ -8,9 +8,6 @@ I'm a software engineer that creates code that doesn't crash (most of the time).
 - **Front-end Libraries & Frameworks**: ReactJS, VueJS, AngularJS, jQuery, Bootstrap, Material-UI, Tailwind CSS, Sass
 - **Back-end Technologies**: NodeJS, ExpressJS
 - **APIs & Data Formats**: RESTful APIs, JSON, XML
-- **Testing & Debugging**: Jest, Enzyme, React Testing Library, Chrome DevTools, Redux DevTools
-- **Build Tools**: Webpack, Babel, Gulp
-- **Version Control**: Git, GitHub
 - **Design Tools**: Figma, Sketch, Adobe Photoshop, Adobe XD
 - **Web Performance**: Lighthouse, PageSpeed Insights, Web Vitals
 
